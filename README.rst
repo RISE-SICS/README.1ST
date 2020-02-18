@@ -11,7 +11,7 @@ Why are we here?
 
 SICS employees were involved in a number of important software projects such as Contiki, lwIP, uIP and Nemesis. This GitHub organization aims to gather former employees/students and their projects in one place - a developer alumni page if you like.
 
-If you are looking for specific repositories, please visit our `members <https://github.com/orgs/RISE-SICS/people>`_ own pages. The organization itself contains no repositories (excluding this README). 
+If you are looking for specific repositories, please visit our `members <https://github.com/orgs/SICS/people>`_ own pages. The organization itself contains no repositories (excluding this README). 
 
 
 How can I join?
